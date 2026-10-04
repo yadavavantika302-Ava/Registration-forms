@@ -1,0 +1,21 @@
+{
+  "name": "two-week-project",
+  "version": "1.0.0",
+  "description": "A standalone HTML, CSS, and JavaScript web project.",
+  "main": "2weekproject.html",
+  "scripts": {
+    "start": "npx http-server . -o 2weekproject.html",
+    "serve": "npx http-server ."
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "static-site"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
